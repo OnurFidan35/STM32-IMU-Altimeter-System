@@ -1,0 +1,26 @@
+# STM32CubeIDE Build Outputs
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.o
+*.d
+*.su
+
+# IDE Settings and Metadata
+.settings/
+.metadata/
+*.launch
+*.uvguiproj.*
+*.bak
+
+# Temporary files
+*.tmp
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
